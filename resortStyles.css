@@ -1,0 +1,61 @@
+/*
+Author: Suzette Kachmaryk
+Date: 10/12/2021
+File Name: resortStyles.css
+*/
+
+/* Style rules for body */
+body {
+	background-color: #ffffcc;
+	color: #008ea9;
+	font-family: Comic Sans MS, Sans Serif, Serif;
+}
+
+/* Style rules for body */
+body p{
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: left;
+}
+
+/* Style rules for image */
+img {
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+	width: 20%;
+}
+
+
+/* Style rules for unordered list */
+ul {
+	font-size: 1em;
+	text-align:left;
+}
+
+/* Style rules for buttons */
+button {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+/* Style rules for header content */
+header {
+	font-weight: bold;
+	text-align: center;
+    font-size: 2em;
+	border-style: solid;
+	border-color: 008ea9;
+	border-width: 5px;
+	padding: 1px;
+	margin: 3px;
+}
+ /* Style rule for first list */
+.red {
+	color: red;
+}
+
+/* Style rule for second list */
+.teal {
+	color: green;
+}
